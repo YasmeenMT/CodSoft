@@ -1,4 +1,4 @@
-CodSoft Intership Tasks: 
+CodSoft Internship Tasks: 
 
 Task 2: MOVIE RATING PREDICTION WITH PYTHON
 
